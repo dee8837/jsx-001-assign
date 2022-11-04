@@ -1,0 +1,18 @@
+
+
+*{
+  background-color: rgb(243, 230, 230);
+}
+.App{
+  text-align: center;
+  /* padding: 07%; */
+  
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 2%;
+  color: white;
+  padding: 10%;
+  color: black;
+  
+}
+
